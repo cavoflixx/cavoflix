@@ -1,2 +1,0 @@
-# cavoflix
-Global Page
